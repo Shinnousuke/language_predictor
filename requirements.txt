@@ -1,5 +1,7 @@
 streamlit
-joblib
-scikit-learn
+librosa
 numpy
 pandas
+scikit-learn
+soundfile
+joblib
